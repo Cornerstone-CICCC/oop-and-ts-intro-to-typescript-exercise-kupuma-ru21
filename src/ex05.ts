@@ -9,4 +9,4 @@ function countVowels(word: string) {
 
 // Expected output:
 console.log(countVowels("hello")); // 2
-console.log(countVowels("typescript")); // 2
+console.log(countVowels("typescript")); // 3
